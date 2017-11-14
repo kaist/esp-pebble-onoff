@@ -20,9 +20,6 @@ if (localStorage.getItem('last_time')){ last_time=parseInt(localStorage.getItem(
 
 var ajax = require('ajax');
 
-
-
-
 var Vibe = require('ui/vibe');
 
 Accel.config({rate:10,samples:5});
