@@ -1,0 +1,71 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "igor.kaist@gmail.com",
+    "longName": "Zalomskij-light",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/handoff.png",
+                "name": "IMAGES_HANDOFF_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/stopwatch.png",
+                "name": "IMAGES_STOPWATCH_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/lighticon.png",
+                "name": "IMAGES_LIGHTICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/hh.png",
+                "name": "IMAGES_HH_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "IMAGES_MENU_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ZalomskijLight",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "67659b9d-f9c0-44d9-a1c8-ff84c31bd687",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
